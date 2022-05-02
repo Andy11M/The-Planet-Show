@@ -1,0 +1,146 @@
+#primero{
+width: 100%;
+text-align: left;
+background-color: white;
+
+;
+
+}
+#about-us{
+padding-top:25%;
+padding-bottom: 5%;
+background-color: black;
+margin-left: 60px;
+color:white;
+font-size: 18px;
+
+
+}
+
+
+#servicios{
+
+padding: 10%;
+background-image: url(covers.jpeg);
+object-fit: cover;
+width: 100%;
+color: white;
+
+}
+
+#precios{
+  background-image: url(covers.jpeg);
+  object-fit: cover;
+  width: 100%;
+  color: white;
+
+}
+
+
+#testimonials{
+  text-align: center;
+  background: black;
+  color: #fff;
+}
+
+#fotos{
+  background-color: black;
+  padding :3%;
+
+}
+
+.fotitos{
+  width:30%;
+}
+#carouselfotos{
+  padding: 7% 15%;
+}
+.carousel-inner{
+  text-align: center;
+  padding: 80px;
+}
+#precios{
+  background-color: purple;
+  color: white;
+  padding: 2% 5%;
+  font-size: 14px;
+}
+
+
+p{
+  font-size: 16px;
+}
+body{
+font-family: "Ubuntu";
+  background-color: black;
+  color: white;
+}
+.nosotros{
+  padding: 3% 5%;
+}
+.card{
+  color:white;
+  text-align: center;
+  text-align: justify;
+  margin-left: 50px;
+}
+.pricing-column{
+  text align:center;
+}
+h1,h2{
+  font-family: "Orbitron";
+}
+
+.video-cover{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+
+}
+.texto{
+  position:relative;
+  margin-left: 20px;
+  margin-top: -420px;
+  text-align: center;
+  font-family: "Orbitron";
+  color: yellow;
+
+}
+
+.navbar{
+
+  color: yellow;
+  font-family: "Orbitron";
+}
+.prueba{
+
+  width: 5%;
+  margin-left: 15px;
+}
+
+.navbar-brand{
+  padding-left: 50px;
+  color: yellow;
+  font-family: "Orbitron"
+}
+.navbar-nav{
+  font-family: "Orbitron"
+}
+
+.container-fluid{
+  color: yellow;
+}
+
+h1{
+  font-size: 72px;
+}
+
+#footer{
+  padding: 3% 3%;
+  text-align: center;
+}
+
+.social-icons{
+  margin-left: 20px;
+}
